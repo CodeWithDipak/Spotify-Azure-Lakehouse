@@ -1,0 +1,31 @@
+[{
+	"schema" : "dbo",
+	"table" : "DimArtist",
+	"column" : "updated_at",
+	"BackDate" : ""
+},
+{
+	"schema" : "dbo",
+	"table" : "DimUser",
+	"column" : "updated_at",
+	"BackDate" : ""
+},
+{
+	"schema" : "dbo",
+	"table" : "DimTrack",
+	"column" : "updated_at",
+	"BackDate" : ""
+},
+{
+	"schema" : "dbo",
+	"table" : "DimDate",
+	"column" : "date",
+	"BackDate" : ""
+},
+{
+	"schema" : "dbo",
+	"table" : "FactStream",
+	"column" : "stream_timestamp",
+	"BackDate" : ""
+}
+]
