@@ -2,30 +2,30 @@
 	"schema" : "dbo",
 	"table" : "DimArtist",
 	"column" : "updated_at",
-	"BackDate" : ""
+	"backdate" : ""
 },
 {
 	"schema" : "dbo",
 	"table" : "DimUser",
 	"column" : "updated_at",
-	"BackDate" : ""
+	"backdate" : ""
 },
 {
 	"schema" : "dbo",
 	"table" : "DimTrack",
 	"column" : "updated_at",
-	"BackDate" : ""
+	"backdate" : ""
 },
 {
 	"schema" : "dbo",
 	"table" : "DimDate",
 	"column" : "date",
-	"BackDate" : ""
+	"backdate" : ""
 },
 {
 	"schema" : "dbo",
 	"table" : "FactStream",
 	"column" : "stream_timestamp",
-	"BackDate" : ""
+	"backdate" : ""
 }
 ]
