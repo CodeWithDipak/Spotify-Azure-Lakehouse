@@ -1,0 +1,15 @@
+{
+	"name": "spotifylakehousefactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "67196323-2ae7-4c84-bcf8-5f92a94751d9",
+		"tenantId": "cfb0e00e-a0eb-4ece-acbd-f0be2d28c2c5"
+	}
+}
